@@ -2,10 +2,10 @@
 Discord integration for the oculus quest and quest 2.
 In this release you have the standard working parts of discord
 Text chat, voice chat etc.
-I plan to bring screenshare into questcord although it will take time
+I plan to bring screenshare into questcord although it will take time,
 Oculus screenshot share has been put into this version of quest cord,
 Not all photos may show up, working on a fix, 
-Inject the file with sidequest or any typical sideloader
+Inject the file with sidequest or any typical sideloader.
 !!this app does not flag your account for any form of piracy, therefor dev mode wont get disabled!!
 
 
