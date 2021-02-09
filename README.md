@@ -14,10 +14,10 @@ AND THEREFOR THERE ARE BUGS
 HERE IS THE LIST OF BUGS I HAVE COME ACROSS
 AND PLAN TO FIX
 
-Discord call audio not coming through well
-Push to talk issues
-Image and server invite loading issues
-Lag in bigger servers or if there is chat spam
+Discord call audio not coming through well,
+Push to talk issues,
+Image and server invite loading issues,
+Lag in bigger servers or if there is chat spam,
 
 Other than that enjoy this version of questcord.
 If you want to wait for the release of version 1.0 which is the final "hotfix"
