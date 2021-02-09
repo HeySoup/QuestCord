@@ -24,6 +24,7 @@ If you want to wait for the release of version 1.0 which is the final "hotfix"
 Than you shall do so
 Version 0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9, are all pre-release and are hotfixes 
 While version 1.0 is the "final" version which shall only be updated if needed.
+Version 1.0 will arrive on sidequest shortly after arriving on the GitHub.
 
 After questcord 1.0 I intend to work on a 
 Twitter integration
